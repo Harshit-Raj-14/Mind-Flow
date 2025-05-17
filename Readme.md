@@ -1,5 +1,7 @@
 # MindFlow - Interactive Mind Map Builder
 
+**Live Deployed Website - https://harshit-raj-14.github.io/Mind-Flow/**
+
 ## Overview
 
 MindFlow is a powerful web-based mind mapping tool designed to help users organize thoughts, plan projects, and study effectively. With its intuitive interface and powerful features, MindFlow makes it easy to create, edit, and share mind maps for any purpose.
@@ -66,7 +68,7 @@ MindFlow is built using modern web technologies and follows a component-based ar
 
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/mindflow.git
+   git clone https://github.com/Harshit-Raj-14/Mind-Flow.git
    ```
 
 2. Open the project folder and launch `index.html` in your web browser
